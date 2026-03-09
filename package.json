@@ -1,5 +1,5 @@
 {
-  "name": "env-switch",
+  "name": "@aykutkardas/env-switch",
   "version": "0.1.0",
   "description": "Manage multiple .env configurations for monorepo projects",
   "bin": {
