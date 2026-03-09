@@ -1,4 +1,4 @@
-# env-switch
+# @aykutkardas/env-switch
 
 Manage multiple `.env` configurations for monorepo projects. Save your current env files as named profiles and switch between them (e.g. `dev`, `staging`, `prod`) without editing files by hand.
 
@@ -9,13 +9,13 @@ Manage multiple `.env` configurations for monorepo projects. Save your current e
 ## Install
 
 ```bash
-npm install env-switch -g
+npm install -g @aykutkardas/env-switch
 ```
 
 Or run without installing (with [npx](https://docs.npmjs.com/cli/v8/commands/npx)):
 
 ```bash
-npx env-switch <command> [options]
+npx @aykutkardas/env-switch <command> [options]
 ```
 
 ## Quick start
